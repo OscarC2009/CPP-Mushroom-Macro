@@ -1,5 +1,7 @@
 # CPP-Mushroom-Macro
 
+## A Mushroom macro for Hypixel Skyblock, made in C++
+
 ### 💻 How to use
 
 Farm: https://youtu.be/QyWf0DO831g
