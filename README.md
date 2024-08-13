@@ -3,11 +3,10 @@
 ### 💻 How to use
 
 Farm: https://youtu.be/QyWf0DO831g
+
 How to run: ```g++ main.cpp -o main.exe``` (or whatever you want to call it)
 
 ### 💻 What it looks like
-
-Output:
 
 ![image](https://github.com/user-attachments/assets/39ef16e7-2aa7-45cf-be34-6507aec5966e)
 
