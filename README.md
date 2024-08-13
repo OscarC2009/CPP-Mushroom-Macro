@@ -24,4 +24,4 @@ Can achieve gold medals in contests.
 --------------------------------------------
 
 
-I know this program is by no far the best, or the most efficient, but it was fun making. :)
+I know this program is by no means the best, or the most efficient, but it was fun making. :)
